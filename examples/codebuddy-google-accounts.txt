@@ -1,0 +1,12 @@
+# CodeBuddy Google OAuth - Account List
+# Format: email:password
+# Lines starting with # are comments
+
+# Example accounts (REPLACE WITH YOUR REAL ACCOUNTS):
+# your-email@gmail.com:YourPassword123
+# another-email@gmail.com:AnotherPass456
+
+# Tips:
+# - Use Gmail accounts for best compatibility
+# - Make sure 2FA is disabled or use app-specific passwords
+# - Keep this file PRIVATE (add to .gitignore)

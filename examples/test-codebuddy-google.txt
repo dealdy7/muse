@@ -1,0 +1,12 @@
+# CodeBuddy Google OAuth - Test Accounts
+# Format: email:password
+
+# ⚠️ IMPORTANT: Replace with your real accounts before running!
+# These are example/dummy accounts for testing the CLI syntax
+
+# Example format (DO NOT USE THESE):
+# test-user-1@gmail.com:SecurePassword123!
+# test-user-2@gmail.com:AnotherSecure456!
+
+# Your real accounts (uncomment and fill):
+# your-real-email@gmail.com:YourRealPassword

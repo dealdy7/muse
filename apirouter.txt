@@ -1,0 +1,8 @@
+# OpenRouter API Keys
+# Format: name|apikey or just apikey (auto-named)
+# Example:
+# bot-key-1|sk-or-v1-abc123
+# bot-key-2|sk-or-v1-def456
+# sk-or-v1-ghi789
+
+# Add your keys below:
